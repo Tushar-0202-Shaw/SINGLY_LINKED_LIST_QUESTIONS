@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_4 {
     public static node intersection(node head1 , node head2){
         node temp1 = head1;
