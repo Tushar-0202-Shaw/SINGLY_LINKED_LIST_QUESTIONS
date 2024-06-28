@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 class node{
     int data;
     node next;
