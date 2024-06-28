@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_2 {
     public static node nthNode(node head, int n) {
         int size = 0;
