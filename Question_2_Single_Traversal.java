@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_2_Single_Traversal {
     public static node nthNode(node head, int n) {
         node slow = head;
