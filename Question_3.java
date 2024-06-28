@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_3 {
     public static node nthDeletionFromEnd (node head,int n){
         node slow = head;
