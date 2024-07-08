@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_11_Iterative {
     public static node reverseList(node head) {
         node curr = head;
