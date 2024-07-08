@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_9_Without_Extra_Space {
     public static node mergeTwoLists(node head1 , node head2){
         node temp1 = head1;
