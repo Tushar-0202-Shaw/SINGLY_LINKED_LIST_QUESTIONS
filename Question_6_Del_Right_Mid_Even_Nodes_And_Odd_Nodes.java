@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_6_Del_Right_Mid_Even_Nodes_And_Odd_Nodes {
     public static node delMid(node head){
         node slow = head;
