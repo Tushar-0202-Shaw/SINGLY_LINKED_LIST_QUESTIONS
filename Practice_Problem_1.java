@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Practice_Problem_1 {
     public static node[] sort(node head){
         node oddHead = new node(0);
