@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_11_Recursively{
     public static node reverseList(node head){
         if(head.next == null) return head;
