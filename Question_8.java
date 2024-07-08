@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_8 {
     public static node detectCycle(node head){
         node slow = head;
