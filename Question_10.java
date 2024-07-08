@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_10 {
     public static node deleteDuplicates(node head) {
         node temp = head;
