@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Practice_Problem_2 {
     public static node reverse(node head){
         node curr = head;
