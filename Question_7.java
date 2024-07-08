@@ -22,6 +22,6 @@ public class Question_7 {
         d.next = e;
         e.next = f;
         f.next = c;
-        System.out.println(checkCycle(a));
+        System.out.print(checkCycle(a));
     }
 }
