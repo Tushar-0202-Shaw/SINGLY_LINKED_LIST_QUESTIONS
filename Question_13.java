@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_13 {
     public static node oddEvenList(node head){
         node even = new node(0);
