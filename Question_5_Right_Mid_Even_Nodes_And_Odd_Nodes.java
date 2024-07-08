@@ -1,4 +1,3 @@
-package Singly_Linked_Interview_Questions;
 public class Question_5_Right_Mid_Even_Nodes_And_Odd_Nodes {
     public static node midElement(node head) {
         node slow = head;
